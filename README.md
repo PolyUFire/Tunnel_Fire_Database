@@ -1,2 +1,6 @@
-# Prediction-of-Critical-Velocity
-The ANN model is trained with the given database to predict the critical velocity in tunnel
+This database is affiliate to a paper published at Tunnelling and Underground Space Technology. The link of this paper is.
+It targets at facilitating the application of AI algorithms in tunnel fire engineering.
+
+
+
+
