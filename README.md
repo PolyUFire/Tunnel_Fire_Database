@@ -1,5 +1,5 @@
-This database is affiliated to a paper published at Tunnelling and Underground Space Technology. This paper is under review.
-It targets at facilitating the application of AI algorithms in tunnel fire engineering.
+This database is affiliated to a paper submitted to Tunnelling and Underground Space Technology (under review).
+It targets at facilitating the application of AI algorithms in the field of tunnel fire safety.
 
 All the data are stored in 6 spreadsheets with various topics.
 Folder "Demonstration" stores the database and codes used for the demonstration in Section 4 of the paper.
