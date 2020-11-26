@@ -1,4 +1,4 @@
-This database aims to facilitate the application of AI algorithms in the field of tunnel fire safety, and it is affiliated to the paper 
+This database aims to facilitate the application of AI algorithms in the field of tunnel fire safety, and it is affiliated to the following paper. 
 
 X. Zhang, X. Wu, Y. Park, X. Huang, T. Zhang, F. Xiao, A. Usmani (2020) Perspectives of Big Experimental Database and Artificial Intelligence in Tunnel Fire Research, Tunnelling and Underground Space Technology. https://doi.org/10.1016/j.tust.2020.103691
 
