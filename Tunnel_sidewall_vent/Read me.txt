@@ -1,0 +1,9 @@
+The sidewall extraction tunnel fire database aims to facilitate the application of AI algorithms in smart tunnel firefighting, and it is affiliated to the following paper.
+
+Y. Jiang, T. Zhang, S. Liu, Q. He, L. Li, X. Huang. (2021) Full-scale fire tests in the underwater tunnel with sidewall smoke extraction (submitted to TUST)
+
+All the data are stored in 8 folders following the test numbers.
+
+In each folder, the temporal vent temperature profile, and temporal temperature data (T1-T9) are presented.
+
+This work is funded by a themed fund "SureFire: Smart Urban Resilience and Firefighting" in Hong Kong. For more information, please visit our website: https://www.bse.polyu.edu.hk/PolyUFire/Project.html.
